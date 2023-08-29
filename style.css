@@ -1,0 +1,110 @@
+#logo {
+    height: 100px;
+    padding-top: -35px;
+}
+
+#logo:hover {
+    border: 2px solid red;
+}
+
+.container {
+    padding-top: -35px;
+    background-color:rgb(211, 189, 159);
+}
+
+.header_elements {
+    display: inline-block;
+
+}
+
+#cps_header {
+    float: left;
+}
+
+#ele2 {
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+#transfer1 {
+    border: 3px dashed green;
+    border-radius: 10px;
+    text-align: center;
+    width: 450px;
+    text-decoration: none !important;
+}
+
+#transfer1:hover {
+    border: 5px dashed green;
+}
+
+#transfer2 {
+    border: 3px dashed green;
+    border-radius: 10px;
+    text-align: center;
+    width: 450px;
+    text-decoration: none !important;
+}
+
+#transfer2:hover {
+    border: 5px dashed green;
+}
+
+#ele3 {
+    float: right;
+    padding-top: 100px;
+    padding-left: 215px;
+    text-decoration: none !important;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    top: 250px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    padding-right: 125px;
+    padding-left: 250px;
+    background-color: #f5f7f8;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.links {
+    float: left;
+    color: rgb(108, 139, 4);
+    padding-top: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 6px;
+    font-size: 17.5px;
+    display: inline;
+    font-size: larger;
+}
+
+.links:hover {
+    background-color:cornflowerblue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.img_cps {
+    height: 450px;
+    padding-left: 500px;
+    float: right;
+    text-align: center;
+}
+
+.slide {
+    padding-top: 100px;
+    padding-right: 310px;
+    margin-bottom: 100px;
+}
+
+.btn {
+    padding-bottom: -100px;
+    height: 50px;
+    width: 50px;
+}   
